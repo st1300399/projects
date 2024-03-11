@@ -1,3 +1,7 @@
+# By kelvinq (st1300399)
+# Last updated at 19:00 2024/3/11
+# https://minesweeper.online/
+
 from PIL import Image, ImageGrab
 import pyautogui as gui
 import time as t
